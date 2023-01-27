@@ -1,0 +1,12 @@
+C:\Users\x\source\repos\TechMindbox\TechMindbox\bin\Debug\net6.0\TechMindbox.deps.json
+C:\Users\x\source\repos\TechMindbox\TechMindbox\bin\Debug\net6.0\TechMindbox.dll
+C:\Users\x\source\repos\TechMindbox\TechMindbox\bin\Debug\net6.0\TechMindbox.pdb
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.AssemblyInfo.cs
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.dll
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\refint\TechMindbox.dll
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\TechMindbox.pdb
+C:\Users\x\source\repos\TechMindbox\TechMindbox\obj\Debug\net6.0\ref\TechMindbox.dll

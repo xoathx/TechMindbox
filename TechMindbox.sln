@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMindbox", "TechMindbox\TechMindbox.csproj", "{A3DDF2A4-C2B4-42CE-99C7-FC06CB975043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMindbox.Tests", "TechMindbox.Tests\TechMindbox.Tests.csproj", "{D7F2568D-9458-4356-B3C2-317E533FAE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DDF2A4-C2B4-42CE-99C7-FC06CB975043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DDF2A4-C2B4-42CE-99C7-FC06CB975043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DDF2A4-C2B4-42CE-99C7-FC06CB975043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DDF2A4-C2B4-42CE-99C7-FC06CB975043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F2568D-9458-4356-B3C2-317E533FAE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F2568D-9458-4356-B3C2-317E533FAE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F2568D-9458-4356-B3C2-317E533FAE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F2568D-9458-4356-B3C2-317E533FAE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6679BDAD-FF98-41AD-99F9-9EB71694682F}
+	EndGlobalSection
+EndGlobal
